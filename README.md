@@ -36,7 +36,7 @@ CloudSync.tsx   // Cloud synchronization
 Inventory.tsx   // Inventory operations
 Returns.tsx     // Return process management
 
----
+```
 
 ## Installation 📦
 
