@@ -64,4 +64,28 @@ npm run dev
 
 ## Usage 🚀
 
-### Login/Signup
+### 1. **Login/Signup**  
+   ![Login Screen](https://github.com/yogeshjangir16/One-Smart-Inc/blob/f6d36a39ad5077cb801c49219a6c4ef50eb55b8a/Images/login.png)
+
+### 2. **Dashboard Overview**  
+   - Add products with expiry dates  
+   - Manage inventory quantities  
+
+### 3. **Billing Process**  
+   - Search products  
+   - Generate invoices  
+
+### 4. **Cloud Sync**  
+   Daily automatic sync at 12:00 AM
+   
+## Deployment 🌐
+
+- **Live Demo:** [https://candid-cobbler-50efla.netlify.app/](https://candid-cobbler-50efla.netlify.app/)  
+- **Video Demo:** [Google Drive Link](https://drive.google.com/file/d/Jir8cwj_UPmqTK4uUDo4VeOA_ewal.F-35/view)  
+
+## Assumptions ⚠️
+
+- Single-user operation only  
+- Daily cloud sync with "last write wins" conflict resolution  
+- Windows environment exclusive  
+- Manual return process initiation  
