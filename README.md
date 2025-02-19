@@ -80,12 +80,21 @@ npm run dev
    
 ## Deployment 🌐
 
-- **Live Demo:** [https://candid-cobbler-50efla.netlify.app/](https://candid-cobbler-50efla.netlify.app/)  
-- **Video Demo:** [Google Drive Link](https://drive.google.com/file/d/Jir8cwj_UPmqTK4uUDo4VeOA_ewal.F-35/view)  
+- **Live Demo:** [https://candid-cobbler-50efla.netlify.app/](https://candid-cobbler-50ef1a.netlify.app/)  
+- **Video Demo:** [Google Drive Link](https://drive.google.com/file/d/1jr8cwj_UPmqTK4uUDo4VeOA_ewaLF-35/view?usp=sharing)  
 
 ## Assumptions ⚠️
 
 - Single-user operation only  
 - Daily cloud sync with "last write wins" conflict resolution  
 - Windows environment exclusive  
-- Manual return process initiation  
+- Manual return process initiation
+
+## Contact 📧
+
+For any issues, feature requests, or support, feel free to reach out:
+
+- **Author:** Yogesh Jangir, Vishal Patel 
+- **GitHub:** [yogeshjangir16](https://github.com/yogeshjangir16)  
+- **Email:** yogeshjangir2080@gmail.com 
+
