@@ -35,3 +35,27 @@ Billing.tsx     // Billing interface
 CloudSync.tsx   // Cloud synchronization
 Inventory.tsx   // Inventory operations
 Returns.tsx     // Return process management
+
+## Installation 📦
+
+### Clone repository:
+```bash
+git clone https://github.com/yogeshjangir16/One-Smart-Inc.git
+cd One-Smart-Inc
+
+### Install dependencies
+```bash
+npm install
+
+### Create .env file with Supabase credentials:
+```bash
+VITE_SUPABASE_URL
+VITE_SUPABASE_KEY
+
+### Start application:
+```bash
+npm run dev
+
+## Usage 🚀
+
+### Login/Signup
