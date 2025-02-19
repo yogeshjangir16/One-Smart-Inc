@@ -6,7 +6,7 @@
 
 A modern Windows desktop application for shopkeepers to manage inventory and billing processes efficiently.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](https://github.com/yogeshjangir16/One-Smart-Inc/blob/2d18bcd9b3d63b5879a6e8310a7914f4d38a2f90/Images/Dashboard.png)
 
 ## Features ✨
 
