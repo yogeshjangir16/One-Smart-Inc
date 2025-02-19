@@ -80,7 +80,7 @@ npm run dev
    
 ## Deployment 🌐
 
-- **Live Demo:** [https://candid-cobbler-50efla.netlify.app/](https://candid-cobbler-50ef1a.netlify.app/)  
+- **Deploy :** [https://candid-cobbler-50efla.netlify.app/](https://candid-cobbler-50ef1a.netlify.app/)  
 - **Video Demo:** [Google Drive Link](https://drive.google.com/file/d/1jr8cwj_UPmqTK4uUDo4VeOA_ewaLF-35/view?usp=sharing)  
 
 ## Assumptions ⚠️
